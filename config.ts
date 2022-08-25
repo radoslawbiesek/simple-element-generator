@@ -1,4 +1,4 @@
-import { Config } from "./index.js";
+import { Config } from "./cli.js";
 
 const config: Config = [
   {
